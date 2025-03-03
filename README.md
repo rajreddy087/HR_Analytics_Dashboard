@@ -26,3 +26,6 @@ The "Attrition by Years at Company" section reveals that employees with shorter 
 **6. Job Role:**
 
 Certain roles, like Laboratory Technicians, Sales Executives, and Research Scientists, have higher attrition counts, signaling the need for role-specific retention strategies.
+
+![image](https://github.com/user-attachments/assets/f5f5b810-69e7-4a75-affc-0bc8a152e978)
+
